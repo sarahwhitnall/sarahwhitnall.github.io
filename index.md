@@ -4,7 +4,7 @@ author_profile: true
 title: "Sarah C. Whitnall"
 ---
 
-Nee Smith
+Nee Smith  
 Postdoctoral Scholar  
 Agricultural and Resource Economics  
 University of California, Davis
