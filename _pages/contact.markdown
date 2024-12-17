@@ -3,9 +3,9 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Sarah C. Whitnall
-nee Smith
-Postdoctoral Scholar
+Sarah C. Whitnall  
+n&#233;e Smith  
+Postdoctoral Scholar  
 
 Department of Agricultural and Resource Economics  
 University of California, Davis  
