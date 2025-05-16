@@ -4,13 +4,13 @@ title: "Research"
 ---
 
 ## Working papers
-### Postharvest Losses from Weather and Climate Change: Evidence from a Million Truckloads (With Tim Beatty)
-![](../assets/cubic_revenue_3d_pval.png){: width="500" }{: .align-left}  
-We estimate the effect of weather and climate change on postharvest losses from data on 1.2 million truckloads of processing tomatoes in California. Our reduced-form estimation strategy compares processing tomatoes grown in the same field in the same season but experience different weather and traffic conditions during transit. Hot temperatures during transportation damage product quality and lead to lower producer revenue, particularly when hot temperatures coincide with heavy traffic. While effect sizes are small in absolute terms, hot temperatures during transportation cause about three times more damage than equivalent exposure during the growing season. We predict climate change will increase postharvest losses by century's end absent additional adaptation. We add to prior work focused on farm output with little attention paid to effects of extreme weather and climate change on products after they leave the farm.
+### Postharvest Losses from Temperature During Transit: Evidence from a Million Truckloads (With Tim Beatty)
+![](../assets/cubic_lu_percent_3d_pval.png){: width="500" }{: .align-left}  
+We estimate the effect of weather and climate change on postharvest losses from data on 1.4 million truckloads of processing tomatoes in California. Our reduced-form estimation strategy compares processing tomatoes grown in the same field in the same season but experience different weather and traffic conditions during transit. Hot temperatures during transportation damage product quality, particularly when hot temperatures coincide with heavy traffic. When we compare best- and worst-case temperature and traffic conditions, the average rate of damage doubles and truckload profits decline by 1.3%. We predict climate change will increase postharvest losses by century's end absent additional adaptation.
 {:style="clear: left"}
 
 ### Climate, Weather, and Collective Reputation: Implications for California’s Wine Prices and Quality (With Julian Alston) [Link](https://wine-economics.org/wp-content/uploads/2024/08/AAWE_WP283.pdf)
-![](../assets/wine_diagram.png){: width="500" }{: .align-left}  
+![](../assets/Climate_price_fe_k&l_cab.png){: width="500" }{: .align-left}  
 Wine is the most differentiated of all farm products, with much of the differentiation based on the location of production. In this paper, we estimate the effects of climate and vintage weather on California's varietal wine quality and prices. We use a sample of premium wines rated by Wine Spectator magazine and a comparable sample of secondary market auction prices from K&L Wine Merchants, matched to spatially detailed weather data from PRISM. We find that extreme temperatures, particularly extremely hot temperatures, caused prices to decline and that climate change will harm wine quality and disrupt quality signals from geographical indications.
 {:style="clear: left"}
 
