@@ -62,9 +62,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SarahCWhitnall"
-   - label: "Google Scholar"
-     icon: "ai ai-google-scholar"
-     url: "https://scholar.google.com/citations?user=ruPfdToAAAAJ&hl=en"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=ruPfdToAAAAJ&hl=en"
 
 defaults:
   # _posts
