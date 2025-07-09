@@ -18,13 +18,17 @@ Adapting to less water is critical to a food-secure future in light of an increa
 
 Whitnall, S. C. & T. K. M. Beatty (2025). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em>. [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749). Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce)
 
-Whitnall, S. C. & J. M. Alston (2025). 
+Whitnall, S. C. & J. M. Alston (2025). Climate, weather, and collective reputation: Implications for California's wine prices and quality. <em>Journal of Wine Economics</em>. Companion piece to <em>HDSR</em> publication. [Link](https://www.cambridge.org/core/journals/journal-of-wine-economics/article/climate-weather-and-collective-reputation-implications-for-californias-wine-prices-and-quality/DEDDD2CDA1514A86A040E9EEF6F6BCF9). 
+
+Whitnall, S. C. & J. M. Alston (2025). Implications of Climate Change for Prices of Ultra-Premium Cabernet Sauvignon Wines From California. <em>Harvard Data Science Review</em>, 7(2). Companion piece to <em>JWE</em> publication. [Link](https://hdsr.mitpress.mit.edu/pub/6g3q4shv/release/3?readingCollection=da931fd2).
 
 Cuffey, J., K. Newby, & S. Smith (2024). Social Inequity in Administrative Frictions: Evidence from SNAP. <em>Public Administration Review</em>, 84(2), 338-356. [Link](https://doi.org/10.1111/puar.13701)
 
 Smith, S. C. & [D. Ubilava](https://davidubilava.com/) (2017). The El Ni&ntilde;o Southern Oscillation Cycle and Growth in the Developing World. <em>Global Environmental Change</em> 45, 151-164. [Link](https://www.sciencedirect.com/science/article/pii/S0959378017300432)
 
 ## Outreach Material
+
+Ricketts, K. & S. Whitnall (2025). From Heat Stress to Economic Stress: Exploring the Future of Australian Agricultural Labour and Productivity. <em>Farm Policy Journal</em>, Australian Farm Institute. [Link](https://www.farminstitute.org.au/product/fpj2201-ricketts-k-whitnall-s-2025-from-heat-stress-to-economic-stress-exploring-the-future-of-australian-agricultural-labour-and-productivity/)
 
 Smith, S. (2017). Wheat. <em>Agricultural Commodities: December quarter 2017</em> ABARES, Canberra. [Link](https://www.awe.gov.au/abares/research-topics/agricultural-outlook/previous-reports)
 
