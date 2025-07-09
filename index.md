@@ -5,9 +5,10 @@ title: "Sarah C. Whitnall"
 ---
 
 N&#233;e Smith  
-Postdoctoral Scholar  
-Agricultural and Resource Economics  
-University of California, Davis
+Lecturer
+Department of Agricultural and Resource Economics  
+School of Agriculture and Environment
+University of Western Australia
 
 ![Headshot](/assets/Headshot.jpeg)
 
