@@ -16,9 +16,7 @@
 title: Sarah C. Whitnall
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Website for Sarah Whitnall (nee Sarah Smith), a Lecturer at the University of Western Australia in the Department of Agricultural and Resource Economics. Previously at University of Calfornia, Davis (UC Davis).
 url: "https://sarahwhitnall.github.io/" # the subpath of your site, e.g. /blog
 repository: "sarahwhitnall.github.io"
 twitter_username: username
@@ -64,7 +62,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SarahCSmith9"
-
+   - label: "Google Scholar"
+     icon: "ai ai-google-scholar"
+     url: "https://scholar.google.com/citations?user=ruPfdToAAAAJ&hl=en"
 
 defaults:
   # _posts
