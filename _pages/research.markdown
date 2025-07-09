@@ -18,7 +18,7 @@ Adapting to less water is critical to a food-secure future in light of an increa
 
 Whitnall, S. C. & T. K. M. Beatty (2025). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em>. [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749). Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce)
 
-Whitnall, S. C. & J. M. Alston (2025). Climate, weather, and collective reputation: Implications for California's wine prices and quality. <em>Journal of Wine Economics</em>. Companion piece to <em>HDSR</em> publication. [Link](https://www.cambridge.org/core/journals/journal-of-wine-economics/article/climate-weather-and-collective-reputation-implications-for-californias-wine-prices-and-quality/DEDDD2CDA1514A86A040E9EEF6F6BCF9). 
+Whitnall, S. C. & J. M. Alston (2025). Climate, weather, and collective reputation: Implications for California's wine prices and quality. <em>Journal of Wine Economics</em>, 20, 122–167. Companion piece to <em>HDSR</em> publication. [Link](https://www.cambridge.org/core/journals/journal-of-wine-economics/article/climate-weather-and-collective-reputation-implications-for-californias-wine-prices-and-quality/DEDDD2CDA1514A86A040E9EEF6F6BCF9). 
 
 Whitnall, S. C. & J. M. Alston (2025). Implications of Climate Change for Prices of Ultra-Premium Cabernet Sauvignon Wines From California. <em>Harvard Data Science Review</em>, 7(2). Companion piece to <em>JWE</em> publication. [Link](https://hdsr.mitpress.mit.edu/pub/6g3q4shv/release/3?readingCollection=da931fd2).
 
