@@ -5,13 +5,12 @@ title: "Contact"
 
 Sarah C. Whitnall  
 n&#233;e Smith  
-Postdoctoral Scholar  
+Lecturer
 
 Department of Agricultural and Resource Economics  
-University of California, Davis  
-2116 Social Sciences and Humanities  
-One Shields Ave, Davis  
-CA 95616
+University of Western Australia
+35 Stirling Hwy
+Crawley WA 6009
 
-[scjsmith@ucdavis.edu](mailto:scjsmith@ucdavis.edu)  
-[UC Davis ARE Postdoctoral Scholars](https://are.ucdavis.edu/people/postdocs/sarah-smith/)
+[sarah.whitnall@uwa.edu.au](mailto:sarah.whitnall@uwa.edu.au)  
+[UWA Profile]([https://research-repository.uwa.edu.au/en/persons/sarah-whitnall])
