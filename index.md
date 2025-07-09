@@ -4,14 +4,10 @@ author_profile: true
 title: "Sarah C. Whitnall"
 ---
 
-N&#233;e Smith
-
-Lecturer
-
-Department of Agricultural and Resource Economics
-
-School of Agriculture and Environment
-
+N&#233;e Smith  
+Lecturer  
+Department of Agricultural and Resource Economics  
+School of Agriculture and Environment  
 University of Western Australia
 
 ![Headshot](/assets/Headshot.jpeg)
