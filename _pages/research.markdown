@@ -16,7 +16,9 @@ Adapting to less water is critical to a food-secure future in light of an increa
 
 ## Publications
 
-Whitnall, S. C. & T. K. M. Beatty (2025). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em> [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749). Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce)
+Whitnall, S. C. & T. K. M. Beatty (2025). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em>. [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749). Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce)
+
+Whitnall, S. C. & J. M. Alston (2025). 
 
 Cuffey, J., K. Newby, & S. Smith (2024). Social Inequity in Administrative Frictions: Evidence from SNAP. <em>Public Administration Review</em>, 84(2), 338-356. [Link](https://doi.org/10.1111/puar.13701)
 
