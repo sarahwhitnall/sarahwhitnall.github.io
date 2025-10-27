@@ -14,3 +14,5 @@ Crawley WA 6009
 
 [sarah.whitnall@uwa.edu.au](mailto:sarah.whitnall@uwa.edu.au)  
 [UWA Profile](https://research-repository.uwa.edu.au/en/persons/sarah-whitnall)
+[Centre for Agricultural Economics and Development](https://www.uwacaed.org/)
+[Centre for Environmental Economics and Policy](https://www.uwaceep.org/)
