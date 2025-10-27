@@ -4,17 +4,18 @@ title: "Research"
 ---
 
 ## Working papers
-### Postharvest Losses from Temperature During Transit: Evidence from a Million Truckloads (With Tim Beatty)
-![](../assets/cubic_lu_percent_3d_pval.png){: width="500" }{: .align-left}  
-We estimate the effect of weather and climate change on postharvest losses from data on 1.4 million truckloads of processing tomatoes in California. Our reduced-form estimation strategy compares processing tomatoes grown in the same field in the same season but experience different weather and traffic conditions during transit. Hot temperatures during transportation damage product quality, particularly when hot temperatures coincide with heavy traffic. When we compare best- and worst-case temperature and traffic conditions, the average rate of damage doubles and truckload profits decline by 1.3%. We predict climate change will increase postharvest losses by century's end absent additional adaptation.
+### Climate Change and Labour Market Strain: Heat Stress Impacts on Farmworker Productivity and Farm Viability (With Katie Ricketts)
+![](../assets/prod_loss_ssp370.png){: width="500" }{: .align-left}  
+In high-income countries, labour expenses represent a significant share of the overall costs of producing food. Farmwork is often physically demanding and outdoors, making agricultural workers among the most vulnerable populations to heat stress. In the context of Australia’s $18 billion fruits, vegetables, and horticultural (FVH) industries, we quantify the effect of increasing temperatures on labour productivity using climate projection models together with government datasets. We find that FVH workers will be significantly less productive by mid-century due to the psychological and physiological burden of hotter temperatures. We project higher operating costs for FVH farms that will need to pay for more working hours to achieve the same amount of work as the baseline period. The costs of reduced labour productivity double under an assumption of labour supply shortages like those experienced in other high-income agricultural industries. This is one of many mechanisms---alongside yield, quality, pest and disease pressure, and water availability---through which climate change threatens farm profitability and food system resilience.
 {:style="clear: left"}
 
 ### Margins of Response to Water Scarcity in Irrigated Agriculture
 ![](../assets/water_districts.png){: width="500" }{: .align-left}  
-Irrigated agriculture is vital for food security, but it relies on an increasingly variable and scarce water supply. I study the effect of water scarcity on farmers' extensive and intensive margins using novel data on hundreds of farmers in California. These data provide evidence of the mechanisms by which growers use water more efficiently---insights unattainable in publicly available or survey data. I find that during a water scarce year, growers engage in both intensive and extensive margin adjustments. This work demonstrates agricultural producers engage in water-saving practices more than what has been previously found and that these practices help growers avoid fallowing, a more costly response.
+Irrigated agriculture is vital for food security, but it relies on an increasingly variable and scarce water supply. I study the effect of water scarcity on farmers' extensive and intensive margins on over 100,000 fields in California between 2010 and 2021. I find that during a water scarce year, growers engage in both intensive and extensive margin adjustments by roughly equal amounts. This work demonstrates agricultural producers engage in water-saving practices more than what has been previously found and that these practices help growers avoid fallowing, a more costly response.
 {:style="clear: left"}
 
 ## Publications
+Whitnall, S. C. & T. K. M. Beatty (2025). Postharvest losses from temperature during transit: Evidence from a million truckloads. <em>American Journal of Agricultural Economicss</em>. [Link](https://onlinelibrary.wiley.com/doi/10.1111/ajae.70019).  
 
 Whitnall, S. C. & T. K. M. Beatty (2025). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em>. [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749).  
 Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce).
