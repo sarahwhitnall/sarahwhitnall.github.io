@@ -15,6 +15,8 @@ Irrigated agriculture is vital for food security, but it relies on an increasing
 {:style="clear: left"}
 
 ## Publications
+Hill, A.E., S.C. Whitnall, E.C.A. Saunders & T.K.M. Beatty (2026). Welfare Program Participation Among US Farmworkers: Evidence From Three National Surveys. <em>Food Policy</em>, 142(2026), 103111. [Link](https://www.sciencedirect.com/science/article/pii/S0306919226000783).  
+
 Whitnall, S. C. & T. K. M. Beatty (2026). Climate Change and Field-Level Crop Quality, Yield, and Revenue. <em>Journal of the Association of Environmental and Resource Economists</em>, 13(1), 261-291. [Link](https://www.journals.uchicago.edu/doi/pdf/10.1086/736749).  
 Press: [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-is-coming-for-your-pizza-sauce).
 
