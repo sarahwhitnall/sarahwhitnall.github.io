@@ -7,7 +7,8 @@ My teaching philosophy balances theory and application. Economics provides a sty
 
 ## University of Western Australia
 
-I am currently instructing: 
+I am currently instructing:
+
 ECON3300 Agricultural Economics and Marketing [handbook link](https://www.handbooks.uwa.edu.au/unitdetails?code=ECON3300)
 
 ECON5511 Climate, Energy and Water Economics [handbook link](https://www.handbooks.uwa.edu.au/unitdetails?code=ECON5511)
